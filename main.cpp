@@ -20,7 +20,7 @@ int main(int argc, char** argv) {
 		cout<<"you can withdraw now";
 	}
 	else{
-		cout<<"msti na kr bari ram moot mary ga";
+		cout<<"you have entered a wrong pin again please enter the pin that you have reseted recentaly";
 	}
 	
 	
